@@ -7,10 +7,6 @@
     text-decoration:none;  
 }
 
-.btn:hover{
-    background: rgba(26, 35, 126, 1);
-}
-
 .btn--primary{
     background:rgba(26, 35, 126, 1);
     color:rgba(197, 202, 233, 1);
