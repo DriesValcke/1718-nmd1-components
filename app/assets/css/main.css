@@ -13,7 +13,7 @@
 }
 
 .btn--primary:hover{
-    background:rgba(26, 35, 126, 1);
+    background:rgb(231, 137, 195);
 }
 
 .btn--secondary{
@@ -22,7 +22,7 @@
 }
 
 .btn--secondary:hover{
-    background:rgb(255, 13, 126);
+    background:rgb(106, 255, 223);
 }
 
 .btn--tertiary{
@@ -31,6 +31,5 @@
 }
 
 .btn--tertiary:hover{
-    background: rgb(53, 44, 182);
-    color:rgb(186, 214, 240);
+    background: rgb(154, 218, 111);
 }
