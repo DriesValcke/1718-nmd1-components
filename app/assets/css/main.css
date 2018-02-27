@@ -1,13 +1,40 @@
 
 .btn{
-    border:1px solid #f60;
-    background-color: #6f0;
+    border: 1px solid transparent;
+    border-radius:8px;
+
     padding:8px 16px; 
     text-decoration:none;  
-    color:black;
 }
 
 .btn:hover{
-    border-color:#6f0;
-    background-color: #f60;
+    background: rgba(26, 35, 126, 1);
+}
+
+.btn--primary{
+    background:rgba(26, 35, 126, 1);
+    color:rgba(197, 202, 233, 1);
+}
+
+.btn--primary:hover{
+    background:rgba(26, 35, 126, 1);
+}
+
+.btn--secondary{
+    background:rgb(255, 13, 126);
+    color:rgb(231, 137, 195);
+}
+
+.btn--secondary:hover{
+    background:rgb(255, 13, 126);
+}
+
+.btn--tertiary{
+    background:rgb(53, 44, 182);
+    color:rgb(186, 214, 240);
+}
+
+.btn--tertiary:hover{
+    background: rgb(53, 44, 182);
+    color:rgb(186, 214, 240);
 }
